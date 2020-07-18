@@ -10,8 +10,8 @@ of Contextualise. These critical concepts include:
 
    topicmaps_model
    topics
-   occurrences
    associations
+   occurrences
    scopes
 
 .. history

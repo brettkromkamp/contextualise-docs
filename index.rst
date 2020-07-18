@@ -26,8 +26,8 @@ Welcome to Contextualise's Documentation!
 
    tutorials/topic_maps/index
    tutorials/topics/index
-   tutorials/occurrences/index
    tutorials/associations/index
+   tutorials/occurrences/index
    tutorials/scopes/index
    tutorials/collaboration/index
 
