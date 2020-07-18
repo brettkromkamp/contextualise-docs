@@ -43,12 +43,12 @@ Organization of the Documentation
 
 This documentation is organized in five sections:
 
-- The :ref:`sec-general` section contains this introduction as well as information about the Contextualise web application, its
+* The :ref:`sec-general` section contains this introduction as well as information about the Contextualise web application, its
   history, its licensing, authors and so forth.
-- The :ref:`sec-learn` section contains all the necessary information related to topic maps, Contextualise's underlying data model.
-- The :ref:`sec-tutorials` section can be read as needed, in any order. It contains feature-specific tutorials and documentation.
-- The :ref:`sec-development` section is intended for advanced users and contributors to the application's development.
-- The :ref:`sec-community` section gives information related to contributing to the application's development and the life of its
+* The :ref:`sec-learn` section contains all the necessary information related to topic maps, Contextualise's underlying data model.
+* The :ref:`sec-tutorials` section can be read as needed, in any order. It contains feature-specific tutorials and documentation.
+* The :ref:`sec-development` section is intended for advanced users and contributors to the application's development.
+* The :ref:`sec-community` section gives information related to contributing to the application's development and the life of its
   community, for example, how to report bugs, help with the documentation and so forth.
 
 Have fun managing your personal knowledge with Contextualise!
