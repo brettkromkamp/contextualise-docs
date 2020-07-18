@@ -1,8 +1,6 @@
 # Contextualise Documentation
 
-This repository contains the source files of Contextualise's documentation, in reStructuredText markup language (reST).
-
-They are meant to be parsed with the Sphinx documentation builder to build the HTML documentation.
+This repository contains the source files of [Contextualise](https://contextualise.dev/)'s documentation, in reStructuredText markup language (reST). They are meant to be parsed with the Sphinx documentation builder to build the HTML documentation.
 
 ## Contributing changes
 
